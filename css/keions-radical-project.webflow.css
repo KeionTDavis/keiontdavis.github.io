@@ -1584,6 +1584,18 @@ a:active {
   padding-top: 23px;
 }
 
+.div-block-24 {
+  margin-left: 246px;
+}
+
+.link-16 {
+  color: #fff;
+}
+
+.link-17 {
+  color: #fff;
+}
+
 html.w-mod-js *[data-ix="new-interaction"] {
   -webkit-transform: translate(-100px, 0px);
   -ms-transform: translate(-100px, 0px);
@@ -1885,6 +1897,9 @@ html.w-mod-js *[data-ix="new-interaction"] {
     margin-left: 237px;
     padding-top: 0px;
   }
+  .div-block-24 {
+    margin-left: 179px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -2168,6 +2183,9 @@ html.w-mod-js *[data-ix="new-interaction"] {
     margin: 0px -33px 84px 118px;
     padding-top: 7px;
     padding-bottom: 0px;
+  }
+  .div-block-24 {
+    margin-left: 104px;
   }
 }
 
@@ -2773,13 +2791,20 @@ html.w-mod-js *[data-ix="new-interaction"] {
     height: 20vh;
     max-width: 100%;
     margin-right: -4px;
+    margin-bottom: 106px;
     margin-left: 68px;
     padding-top: 0px;
+    padding-bottom: 0px;
   }
   .bgvideo.background-video-5 {
     margin-top: 45px;
-    margin-bottom: 2px;
+    margin-bottom: 82px;
     padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  .div-block-24 {
+    margin-bottom: 24px;
+    margin-left: 68px;
   }
 }
 
