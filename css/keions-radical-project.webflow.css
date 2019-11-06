@@ -944,6 +944,10 @@ a:active {
   color: red;
 }
 
+.link-5.mywork:active {
+  color: #fbff00;
+}
+
 .link-5.page-1 {
   color: #000;
 }
@@ -967,6 +971,10 @@ a:active {
 
 .link-6.page-2:hover {
   color: red;
+}
+
+.link-6.mywork:active {
+  color: #fbff00;
 }
 
 .link-6.page-1 {
@@ -1183,6 +1191,7 @@ a:active {
 
 .linky:active {
   background-image: none;
+  color: #fff700;
 }
 
 .div-block-17 {
@@ -1247,6 +1256,14 @@ a:active {
 
 .link-10.mywork {
   color: #fff;
+}
+
+.link-10.mywork:hover {
+  color: red;
+}
+
+.link-10.mywork:active {
+  color: #fbff00;
 }
 
 .link-10.mywork.w--current {
@@ -1322,6 +1339,19 @@ a:active {
 
 .link-12 {
   color: #fff;
+}
+
+.link-12.mywork {
+  color: #fff;
+}
+
+.link-12.mywork:hover {
+  color: red;
+}
+
+.link-12.mywork:active {
+  background-image: none;
+  color: #fbff00;
 }
 
 .utility-page-wrap {
@@ -1517,6 +1547,11 @@ a:active {
   color: #fff;
 }
 
+.link-13:active {
+  background-image: none;
+  color: #ff0;
+}
+
 .text-block-16 {
   position: absolute;
   left: 323px;
@@ -1592,8 +1627,18 @@ a:active {
   color: #fff;
 }
 
+.link-16:active {
+  background-image: none;
+  color: #fbff00;
+}
+
 .link-17 {
   color: #fff;
+}
+
+.link-17:active {
+  background-image: none;
+  color: #fff700;
 }
 
 html.w-mod-js *[data-ix="new-interaction"] {
