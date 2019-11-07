@@ -1569,7 +1569,9 @@ a:active {
 }
 
 .sitecodedby {
-  padding-bottom: 23px;
+  margin-top: -52px;
+  padding-bottom: 0px;
+  border-bottom: 1px dashed #000;
 }
 
 .background-video {
@@ -1656,6 +1658,58 @@ a:active {
 .link-19:active {
   background-image: none;
   color: #fff700;
+}
+
+.div-block-25 {
+  margin-left: 236px;
+}
+
+.text-block-17 {
+  width: auto;
+  margin: 32px 38px 28px 0em;
+  color: #000;
+  font-size: 3em;
+  font-weight: 400;
+  text-align: left;
+}
+
+.image-15 {
+  width: 100%;
+}
+
+.div-block-26 {
+  margin-top: 41px;
+  margin-right: 36px;
+  margin-left: 323px;
+}
+
+.div-block-27 {
+  margin-top: 4em;
+  margin-right: 15.9em;
+  margin-left: 3.3em;
+}
+
+.div-block-28 {
+  overflow: hidden;
+  width: auto;
+}
+
+.text-block-18 {
+  margin-left: 4em;
+}
+
+.div-block-29 {
+  overflow: hidden;
+  margin-left: 22.5em;
+  padding-top: 22px;
+  border-bottom: 1px none #000;
+  opacity: 1;
+}
+
+.text-block-19 {
+  margin-left: 2px;
+  padding-bottom: 11px;
+  padding-left: 5px;
 }
 
 html.w-mod-js *[data-ix="new-interaction"] {
@@ -1941,6 +1995,10 @@ html.w-mod-js *[data-ix="new-interaction"] {
   }
   .text-block-16 {
     left: 214px;
+    padding-top: 0px;
+  }
+  .sitecodedby {
+    padding-bottom: 34px;
   }
   .background-video-5 {
     margin-left: 0px;
@@ -1961,6 +2019,33 @@ html.w-mod-js *[data-ix="new-interaction"] {
   }
   .div-block-24 {
     margin-left: 179px;
+  }
+  .div-block-25 {
+    overflow: hidden;
+    margin-left: 221px;
+  }
+  .text-block-17 {
+    overflow: hidden;
+    margin-bottom: 25px;
+    margin-left: 0em;
+    color: #000;
+    font-size: 2em;
+    line-height: 50px;
+  }
+  .div-block-26 {
+    margin-right: 3em;
+    margin-left: 207px;
+  }
+  .div-block-27 {
+    margin-left: -0.3em;
+  }
+  .div-block-28 {
+    max-width: 100%;
+  }
+  .div-block-29 {
+    overflow: visible;
+    margin-right: 20px;
+    margin-left: 14.7em;
   }
 }
 
@@ -2230,6 +2315,7 @@ html.w-mod-js *[data-ix="new-interaction"] {
     margin-top: 33px;
   }
   .sitecodedby {
+    overflow: hidden;
     margin-top: 49px;
     padding-top: 0px;
     padding-bottom: 19px;
@@ -2246,8 +2332,48 @@ html.w-mod-js *[data-ix="new-interaction"] {
     padding-top: 7px;
     padding-bottom: 0px;
   }
+  .bgvideo.background-video-5 {
+    margin-left: 107px;
+  }
   .div-block-24 {
-    margin-left: 104px;
+    margin-left: -21px;
+  }
+  .div-block-25 {
+    margin-left: 97px;
+  }
+  .text-block-17 {
+    overflow: hidden;
+    width: 100%;
+    max-width: 100%;
+    margin-left: 0em;
+    font-size: 1.4em;
+    line-height: 40px;
+  }
+  .image-15 {
+    overflow: hidden;
+    width: auto;
+  }
+  .div-block-26 {
+    overflow: hidden;
+    width: auto;
+    margin-right: -0.6em;
+    margin-left: 0px;
+  }
+  .div-block-27 {
+    overflow: hidden;
+    margin-right: 0em;
+    margin-left: 0em;
+  }
+  .image-16 {
+    overflow: hidden;
+  }
+  .div-block-28 {
+    overflow: hidden;
+    width: 100%;
+    max-width: 100%;
+  }
+  .div-block-29 {
+    margin-left: 7.9em;
   }
 }
 
@@ -2835,6 +2961,7 @@ html.w-mod-js *[data-ix="new-interaction"] {
     left: 87px;
     top: 1425.625px;
     right: 18px;
+    overflow: hidden;
   }
   .link-14 {
     border-bottom: 2px solid #fff;
@@ -2843,6 +2970,9 @@ html.w-mod-js *[data-ix="new-interaction"] {
   .link-15 {
     border-bottom: 2px solid #fff;
     color: #fff;
+  }
+  .sitecodedby {
+    padding-bottom: 40px;
   }
   .background-video-5 {
     height: 20vh;
@@ -2866,7 +2996,42 @@ html.w-mod-js *[data-ix="new-interaction"] {
   }
   .div-block-24 {
     margin-bottom: 24px;
-    margin-left: 68px;
+    margin-left: 10px;
+  }
+  .div-block-25 {
+    margin-left: 70px;
+  }
+  .text-block-17 {
+    width: auto;
+    max-width: 100%;
+    margin-top: 20px;
+    margin-left: 0em;
+    font-size: 1.5em;
+    line-height: 30px;
+  }
+  .image-15 {
+    display: block;
+    margin-left: 0px;
+  }
+  .div-block-26 {
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+  .div-block-27 {
+    width: 100%;
+    margin-top: 2.5em;
+    margin-right: 0em;
+    margin-left: 0em;
+  }
+  .image-16 {
+    width: 100%;
+    margin-left: 0px;
+  }
+  .div-block-28 {
+    overflow: hidden;
+  }
+  .div-block-29 {
+    margin-left: 5.6em;
   }
 }
 
