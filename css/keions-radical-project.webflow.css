@@ -1046,7 +1046,7 @@ a:active {
 }
 
 .text-block-9.null {
-  text-decoration: line-through;
+  text-decoration: none;
 }
 
 .abilities {
@@ -1637,6 +1637,23 @@ a:active {
 }
 
 .link-17:active {
+  background-image: none;
+  color: #fff700;
+}
+
+.link-18 {
+  color: #fff;
+}
+
+.link-18:focus {
+  color: #fbff00;
+}
+
+.link-19 {
+  color: #fff;
+}
+
+.link-19:active {
   background-image: none;
   color: #fff700;
 }
