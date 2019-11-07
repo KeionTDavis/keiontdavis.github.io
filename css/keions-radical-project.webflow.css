@@ -1660,7 +1660,7 @@ a:active {
   color: #fff700;
 }
 
-.div-block-25 {
+.artcontainer {
   margin-left: 236px;
 }
 
@@ -1677,13 +1677,13 @@ a:active {
   width: 100%;
 }
 
-.div-block-26 {
+.artbug {
   margin-top: 41px;
   margin-right: 36px;
   margin-left: 323px;
 }
 
-.div-block-27 {
+.art2 {
   margin-top: 4em;
   margin-right: 15.9em;
   margin-left: 3.3em;
@@ -1698,7 +1698,7 @@ a:active {
   margin-left: 4em;
 }
 
-.div-block-29 {
+.artblock {
   overflow: hidden;
   margin-left: 22.5em;
   padding-top: 22px;
@@ -2020,7 +2020,7 @@ html.w-mod-js *[data-ix="new-interaction"] {
   .div-block-24 {
     margin-left: 179px;
   }
-  .div-block-25 {
+  .artcontainer {
     overflow: hidden;
     margin-left: 221px;
   }
@@ -2032,17 +2032,17 @@ html.w-mod-js *[data-ix="new-interaction"] {
     font-size: 2em;
     line-height: 50px;
   }
-  .div-block-26 {
+  .artbug {
     margin-right: 3em;
     margin-left: 207px;
   }
-  .div-block-27 {
+  .art2 {
     margin-left: -0.3em;
   }
   .div-block-28 {
     max-width: 100%;
   }
-  .div-block-29 {
+  .artblock {
     overflow: visible;
     margin-right: 20px;
     margin-left: 14.7em;
@@ -2338,7 +2338,7 @@ html.w-mod-js *[data-ix="new-interaction"] {
   .div-block-24 {
     margin-left: -21px;
   }
-  .div-block-25 {
+  .artcontainer {
     margin-left: 97px;
   }
   .text-block-17 {
@@ -2353,13 +2353,13 @@ html.w-mod-js *[data-ix="new-interaction"] {
     overflow: hidden;
     width: auto;
   }
-  .div-block-26 {
+  .artbug {
     overflow: hidden;
     width: auto;
     margin-right: -0.6em;
     margin-left: 0px;
   }
-  .div-block-27 {
+  .art2 {
     overflow: hidden;
     margin-right: 0em;
     margin-left: 0em;
@@ -2372,7 +2372,7 @@ html.w-mod-js *[data-ix="new-interaction"] {
     width: 100%;
     max-width: 100%;
   }
-  .div-block-29 {
+  .artblock {
     margin-left: 7.9em;
   }
 }
@@ -2998,7 +2998,7 @@ html.w-mod-js *[data-ix="new-interaction"] {
     margin-bottom: 24px;
     margin-left: 10px;
   }
-  .div-block-25 {
+  .artcontainer {
     margin-left: 70px;
   }
   .text-block-17 {
@@ -3013,11 +3013,11 @@ html.w-mod-js *[data-ix="new-interaction"] {
     display: block;
     margin-left: 0px;
   }
-  .div-block-26 {
+  .artbug {
     margin-right: 0px;
     margin-left: 0px;
   }
-  .div-block-27 {
+  .art2 {
     width: 100%;
     margin-top: 2.5em;
     margin-right: 0em;
@@ -3030,7 +3030,7 @@ html.w-mod-js *[data-ix="new-interaction"] {
   .div-block-28 {
     overflow: hidden;
   }
-  .div-block-29 {
+  .artblock {
     margin-left: 5.6em;
   }
 }
