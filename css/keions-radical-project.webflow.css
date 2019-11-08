@@ -602,7 +602,7 @@ a:active {
   top: auto;
   right: 0%;
   bottom: 0%;
-  z-index: auto;
+  z-index: 0;
   display: block;
   width: 80%;
   height: auto;
@@ -1823,19 +1823,20 @@ html.w-mod-js *[data-ix="new-interaction"] {
     line-height: 1.1em;
   }
   .goodspinnerwrap {
-    left: 29.6em;
-    top: 31.7em;
+    left: 286px;
+    top: 20px;
     right: 0%;
-    bottom: 0%;
+    bottom: -61%;
     width: 40em;
-    margin-top: 128px;
-    margin-left: 158px;
+    margin-top: -113px;
+    margin-left: 161px;
   }
   .image-4 {
     left: auto;
-    top: 125px;
+    top: auto;
     right: 0%;
     bottom: 0%;
+    overflow: visible;
   }
   .photocontain {
     display: block;
@@ -1953,6 +1954,7 @@ html.w-mod-js *[data-ix="new-interaction"] {
     top: auto;
     right: 0%;
     bottom: 0%;
+    overflow: visible;
   }
   .info {
     padding-right: 0em;
@@ -2575,9 +2577,9 @@ html.w-mod-js *[data-ix="new-interaction"] {
   }
   .goodspinnerwrap {
     left: 12.3em;
-    top: 29.5em;
+    top: 30.8em;
     right: 0%;
-    bottom: 0%;
+    bottom: -39%;
     width: 60vh;
     margin-top: 0px;
     margin-left: 0px;
