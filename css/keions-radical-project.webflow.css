@@ -738,7 +738,7 @@ a:active {
   display: block;
   width: 100%;
   margin-top: 33px;
-  margin-bottom: 10em;
+  margin-bottom: 13em;
   margin-left: 0em;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
@@ -1569,7 +1569,7 @@ a:active {
 }
 
 .sitecodedby {
-  margin-top: -52px;
+  margin-top: -62px;
   padding-bottom: 0px;
   border-bottom: 1px dashed #000;
 }
@@ -2000,6 +2000,7 @@ html.w-mod-js *[data-ix="new-interaction"] {
     padding-top: 0px;
   }
   .sitecodedby {
+    margin-top: -19px;
     padding-bottom: 34px;
   }
   .background-video-5 {
@@ -2650,7 +2651,7 @@ html.w-mod-js *[data-ix="new-interaction"] {
   .footer.page-1 {
     position: static;
     max-width: none;
-    margin-top: 35px;
+    margin-top: 70px;
     margin-left: 0em;
     padding-left: 0px;
   }
@@ -2974,6 +2975,7 @@ html.w-mod-js *[data-ix="new-interaction"] {
     color: #fff;
   }
   .sitecodedby {
+    margin-top: 84px;
     padding-bottom: 40px;
   }
   .background-video-5 {
