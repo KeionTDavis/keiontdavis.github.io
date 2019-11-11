@@ -13,6 +13,11 @@ a:active {
   background-size: 125px;
 }
 
+img {
+  display: inline-block;
+  max-width: 100%;
+}
+
 .nav-menu {
   display: -webkit-box;
   display: -webkit-flex;
@@ -610,13 +615,13 @@ a:active {
   margin-left: 11px;
 }
 
-.image-4 {
+.spnimage {
   position: absolute;
   left: auto;
   top: auto;
   right: 0%;
   bottom: 0%;
-  z-index: 0;
+  z-index: auto;
   overflow: visible;
   margin-top: 0px;
 }
@@ -1833,7 +1838,7 @@ html.w-mod-js *[data-ix="new-interaction"] {
     margin-top: -113px;
     margin-left: 161px;
   }
-  .image-4 {
+  .spnimage {
     left: auto;
     top: auto;
     right: 0%;
@@ -2587,7 +2592,7 @@ html.w-mod-js *[data-ix="new-interaction"] {
     margin-top: 0px;
     margin-left: 0px;
   }
-  .image-4 {
+  .spnimage {
     padding-bottom: 0px;
   }
   .div-block-10 {
