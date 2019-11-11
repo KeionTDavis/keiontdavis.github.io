@@ -737,7 +737,7 @@ a:active {
 .footer.page-1 {
   display: block;
   width: 100%;
-  margin-top: 33px;
+  margin-top: 39px;
   margin-bottom: 13em;
   margin-left: 0em;
   -webkit-box-orient: horizontal;
@@ -1556,6 +1556,7 @@ a:active {
   position: absolute;
   left: 323px;
   top: 1420.625px;
+  margin-bottom: 5px;
 }
 
 .link-14 {
@@ -1569,7 +1570,8 @@ a:active {
 }
 
 .sitecodedby {
-  margin-top: -62px;
+  margin-top: 54px;
+  margin-bottom: 28px;
   padding-bottom: 0px;
   border-bottom: 1px dashed #000;
 }
@@ -3023,7 +3025,7 @@ html.w-mod-js *[data-ix="new-interaction"] {
   }
   .art2 {
     width: 100%;
-    margin-top: 2.5em;
+    margin-top: 2.6em;
     margin-right: 0em;
     margin-left: 0em;
   }
