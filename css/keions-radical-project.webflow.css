@@ -1986,7 +1986,7 @@ html.w-mod-js *[data-ix="new-interaction"] {
     margin-left: 0px;
   }
   .workdetailssite {
-    margin-left: 90px;
+    margin-left: 0px;
   }
   .workdetailssite.insight {
     margin-left: 180px;
@@ -2307,7 +2307,7 @@ html.w-mod-js *[data-ix="new-interaction"] {
     background-image: none;
   }
   .workdetailssite {
-    margin-left: 47px;
+    margin-left: 1px;
   }
   .workdetailssite.insight {
     margin-left: 96px;
@@ -2944,7 +2944,8 @@ html.w-mod-js *[data-ix="new-interaction"] {
     margin-left: 0px;
   }
   .workdetailssite {
-    margin-left: 2.5em;
+    margin-left: -0.1em;
+    padding-left: 0px;
   }
   .workdetailssite.insight {
     margin-left: 70px;
