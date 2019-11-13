@@ -1991,6 +1991,9 @@ html.w-mod-js *[data-ix="new-interaction"] {
   .workdetailssite.insight {
     margin-left: 180px;
   }
+  .workdetailssite.nul {
+    margin-left: 181px;
+  }
   .image-12 {
     max-width: 100%;
     margin-left: 0px;
@@ -2311,6 +2314,9 @@ html.w-mod-js *[data-ix="new-interaction"] {
   }
   .workdetailssite.insight {
     margin-left: 96px;
+  }
+  .workdetailssite.nul {
+    margin-left: 97px;
   }
   .heading-3 {
     max-width: 70%;
@@ -2950,6 +2956,9 @@ html.w-mod-js *[data-ix="new-interaction"] {
   .workdetailssite.insight {
     margin-left: 70px;
   }
+  .workdetailssite.nul {
+    margin-left: 69px;
+  }
   .image-12 {
     max-width: 100%;
     margin-left: -2px;
@@ -3048,6 +3057,9 @@ html.w-mod-js *[data-ix="new-interaction"] {
   }
   .artblock {
     margin-left: 5.6em;
+  }
+  .image-17 {
+    display: none;
   }
 }
 
