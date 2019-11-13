@@ -2310,12 +2310,14 @@ html.w-mod-js *[data-ix="new-interaction"] {
     background-image: none;
   }
   .workdetailssite {
+    height: auto;
     margin-left: 1px;
   }
   .workdetailssite.insight {
     margin-left: 96px;
   }
   .workdetailssite.nul {
+    height: auto;
     margin-left: 97px;
   }
   .heading-3 {
