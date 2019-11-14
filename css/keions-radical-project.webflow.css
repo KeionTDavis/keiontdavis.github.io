@@ -1508,7 +1508,7 @@ img {
   display: -ms-flexbox;
   display: flex;
   overflow: visible;
-  height: 300%;
+  height: auto;
   max-width: 100%;
   margin-left: -1px;
   -webkit-box-orient: vertical;
@@ -1519,11 +1519,12 @@ img {
 }
 
 .workdetailssite.insight {
-  height: 100%;
+  height: auto;
   margin-left: 236px;
 }
 
 .workdetailssite.nul {
+  height: auto;
   margin-left: 238px;
 }
 
@@ -1623,7 +1624,7 @@ img {
   overflow: hidden;
   height: 100%;
   max-width: 60%;
-  margin: -15px 49px 40px 349px;
+  margin: -15px 49px 40px 343px;
   padding-top: 326px;
   padding-bottom: 0px;
 }
@@ -1635,11 +1636,13 @@ img {
 .bgvideo.background-video-5 {
   height: 70vh;
   margin-top: 0px;
+  margin-right: 39px;
+  margin-left: 345px;
   padding-top: 23px;
 }
 
 .bau {
-  margin-left: 246px;
+  margin-left: -99px;
 }
 
 .link-16 {
@@ -1727,6 +1730,20 @@ img {
   margin-left: 2px;
   padding-bottom: 11px;
   padding-left: 5px;
+}
+
+.div-block-29 {
+  margin-left: 237px;
+}
+
+.div-block-30 {
+  width: auto;
+  max-width: 100%;
+  margin-left: 239px;
+}
+
+.image-19 {
+  width: 100%;
 }
 
 html.w-mod-js *[data-ix="new-interaction"] {
@@ -2070,6 +2087,12 @@ html.w-mod-js *[data-ix="new-interaction"] {
     margin-right: 20px;
     margin-left: 14.7em;
   }
+  .div-block-29 {
+    margin-left: 183px;
+  }
+  .div-block-30 {
+    margin-left: 177px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -2316,12 +2339,15 @@ html.w-mod-js *[data-ix="new-interaction"] {
     background-image: none;
   }
   .workdetailssite {
+    height: 100%;
     margin-left: 1px;
   }
   .workdetailssite.insight {
+    height: 100%;
     margin-left: 96px;
   }
   .workdetailssite.nul {
+    height: 100%;
     margin-left: 97px;
   }
   .heading-3 {
@@ -2359,10 +2385,10 @@ html.w-mod-js *[data-ix="new-interaction"] {
     padding-bottom: 0px;
   }
   .bgvideo.background-video-5 {
-    margin-left: 107px;
+    margin-left: 102px;
   }
   .bau {
-    margin-left: 98px;
+    margin-left: 7px;
   }
   .artcontainer {
     margin-left: 97px;
@@ -2400,6 +2426,12 @@ html.w-mod-js *[data-ix="new-interaction"] {
   }
   .artblock {
     margin-left: 7.9em;
+  }
+  .div-block-29 {
+    margin-left: 101px;
+  }
+  .div-block-30 {
+    margin-left: 100px;
   }
 }
 
@@ -3027,7 +3059,7 @@ html.w-mod-js *[data-ix="new-interaction"] {
   }
   .bau {
     margin-bottom: 24px;
-    margin-left: 68px;
+    margin-left: 0px;
   }
   .artcontainer {
     margin-left: 70px;
@@ -3066,6 +3098,15 @@ html.w-mod-js *[data-ix="new-interaction"] {
   }
   .image-17 {
     display: none;
+  }
+  .image-18 {
+    height: auto;
+  }
+  .div-block-29 {
+    margin-left: 71px;
+  }
+  .div-block-30 {
+    margin-left: 69px;
   }
 }
 
