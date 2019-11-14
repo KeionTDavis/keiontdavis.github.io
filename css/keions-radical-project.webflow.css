@@ -14,10 +14,9 @@ a:active {
 }
 
 img {
-  width: 100%;
-  height: auto;
+  display: inline-block;
+  max-width: 100%;
 }
-
 
 .nav-menu {
   display: -webkit-box;
@@ -704,6 +703,7 @@ img {
 
 .image-7 {
   padding-top: 0px;
+  cursor: crosshair;
 }
 
 .text-block-5 {
@@ -1250,6 +1250,11 @@ img {
   margin-left: 494px;
   padding-top: 0px;
   padding-bottom: 16%;
+}
+
+.spinner.two {
+  margin-top: 41.9em;
+  margin-left: 492px;
 }
 
 .link-block {
@@ -2311,14 +2316,12 @@ html.w-mod-js *[data-ix="new-interaction"] {
     background-image: none;
   }
   .workdetailssite {
-    height: auto;
     margin-left: 1px;
   }
   .workdetailssite.insight {
     margin-left: 96px;
   }
   .workdetailssite.nul {
-    height: auto;
     margin-left: 97px;
   }
   .heading-3 {
