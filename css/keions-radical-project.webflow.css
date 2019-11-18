@@ -1780,6 +1780,10 @@ img {
   margin-left: 237px;
 }
 
+.background-video-6 {
+  overflow: visible;
+}
+
 html.w-mod-js *[data-ix="new-interaction"] {
   -webkit-transform: translate(-100px, 0px);
   -ms-transform: translate(-100px, 0px);
@@ -2204,6 +2208,9 @@ html.w-mod-js *[data-ix="new-interaction"] {
     text-align: left;
     letter-spacing: 0px;
   }
+  .aboutty.mywork {
+    padding-bottom: 0.2em;
+  }
   .contactinfo.page-1 {
     margin-top: 0em;
     margin-right: 3px;
@@ -2575,6 +2582,9 @@ html.w-mod-js *[data-ix="new-interaction"] {
     padding-left: 0px;
     border-bottom-style: none;
     font-size: 1.4em;
+  }
+  .aboutty.mywork {
+    padding-bottom: 1.4em;
   }
   .contactinfo {
     width: 10em;
@@ -3191,6 +3201,19 @@ html.w-mod-js *[data-ix="new-interaction"] {
   }
   .div-block-32 {
     margin-left: 71px;
+  }
+  .background-video-6 {
+    overflow: hidden;
+    max-width: 100%;
+    margin-top: 5px;
+    margin-left: 2px;
+    padding-top: 1px;
+    padding-left: 0px;
+  }
+  .div-block-33 {
+    overflow: visible;
+    max-width: 100%;
+    margin-left: -3px;
   }
 }
 
