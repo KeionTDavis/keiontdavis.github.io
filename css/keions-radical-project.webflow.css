@@ -1545,6 +1545,10 @@ img {
 }
 
 .div-block-23 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
   border-bottom: 2px solid #fff;
 }
 
@@ -1784,6 +1788,30 @@ img {
   overflow: visible;
 }
 
+.div-block-33 {
+  width: 100vh;
+}
+
+.background-video-7 {
+  margin-top: 46px;
+  margin-bottom: 78px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.div-block-35 {
+  margin-top: 18px;
+  margin-left: 0px;
+}
+
+.text-block-20 {
+  margin-left: 72px;
+}
+
+.background-video-8 {
+  margin-top: 106px;
+}
+
 html.w-mod-js *[data-ix="new-interaction"] {
   -webkit-transform: translate(-100px, 0px);
   -ms-transform: translate(-100px, 0px);
@@ -1902,6 +1930,12 @@ html.w-mod-js *[data-ix="new-interaction"] {
     width: 40em;
     margin-top: -113px;
     margin-left: 161px;
+  }
+  .goodspinnerwrap.two {
+    left: 228px;
+    top: 30px;
+    bottom: -48%;
+    margin-top: -103px;
   }
   .spnimage {
     left: auto;
@@ -2147,6 +2181,11 @@ html.w-mod-js *[data-ix="new-interaction"] {
   .div-block-32 {
     margin-left: 182px;
   }
+  .text-block-20 {
+    margin-right: 33px;
+    margin-left: 49px;
+    padding-right: 0px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -2252,6 +2291,11 @@ html.w-mod-js *[data-ix="new-interaction"] {
   }
   .goodspinnerwrap {
     left: 15.1em;
+  }
+  .goodspinnerwrap.two {
+    left: 115px;
+    top: -2px;
+    bottom: -39%;
   }
   .photocontain {
     margin-right: 0em;
@@ -3089,6 +3133,9 @@ html.w-mod-js *[data-ix="new-interaction"] {
     line-height: 18px;
     text-align: left;
   }
+  .div-block-23 {
+    display: block;
+  }
   .image-13 {
     max-width: 100%;
     margin-left: 0px;
@@ -3204,16 +3251,33 @@ html.w-mod-js *[data-ix="new-interaction"] {
   }
   .background-video-6 {
     overflow: hidden;
+    width: auto;
     max-width: 100%;
     margin-top: 5px;
+    margin-right: -218px;
     margin-left: 2px;
     padding-top: 1px;
     padding-left: 0px;
   }
   .div-block-33 {
     overflow: visible;
+    width: auto;
     max-width: 100%;
-    margin-left: -3px;
+    margin-right: -9.7em;
+    margin-left: -1px;
+  }
+  .div-block-34 {
+    width: 100vh;
+    max-width: 100%;
+    margin-right: 7px;
+    margin-left: -2px;
+  }
+  .background-video-7 {
+    margin-left: 1px;
+  }
+  .text-block-20 {
+    margin-left: 85px;
+    padding-bottom: 11px;
   }
 }
 
