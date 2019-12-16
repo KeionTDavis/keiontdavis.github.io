@@ -1790,6 +1790,7 @@ img {
 
 .div-block-33 {
   width: 100vh;
+  margin-left: 82px;
 }
 
 .background-video-7 {
@@ -2651,8 +2652,10 @@ html.w-mod-js *[data-ix="new-interaction"] {
     text-align: center;
   }
   .contactinfo.page-1.mywork {
+    margin-right: 4px;
     padding-top: 0em;
     padding-bottom: 0em;
+    padding-left: 0px;
   }
   .list {
     margin-bottom: 24px;
@@ -2920,7 +2923,7 @@ html.w-mod-js *[data-ix="new-interaction"] {
     text-align: center;
   }
   .contactcontain.page-1.mywork {
-    margin-left: -17px;
+    margin-left: -20px;
   }
   .contactcontain.page-2 {
     margin-left: 0px;
