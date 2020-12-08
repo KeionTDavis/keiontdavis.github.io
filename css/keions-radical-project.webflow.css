@@ -2858,6 +2858,7 @@ html.w-mod-js *[data-ix="new-interaction"] {
 
   .aboutty.mywork {
     padding-bottom: 1.4em;
+    background-color: #000;
   }
 
   .contactinfo {
@@ -3347,6 +3348,7 @@ html.w-mod-js *[data-ix="new-interaction"] {
 
   .workblock.mywork {
     padding-top: 46px;
+    background-color: #000;
   }
 
   .spinner {
