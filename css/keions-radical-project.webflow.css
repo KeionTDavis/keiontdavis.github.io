@@ -708,7 +708,7 @@ img {
 }
 
 .image-7 {
-  margin-left: 77px;
+  margin-left: 30px;
   padding-top: 0px;
   font-size: 2em;
   line-height: 2em;
@@ -1072,10 +1072,10 @@ img {
   display: -ms-flexbox;
   display: flex;
   width: auto;
-  margin-top: 169px;
+  margin-top: 136px;
   margin-bottom: -124px;
   margin-left: 5px;
-  padding-top: 38px;
+  padding-top: 27px;
   padding-bottom: 0px;
   padding-left: 12.6em;
   -webkit-box-orient: horizontal;
@@ -1331,13 +1331,12 @@ img {
 }
 
 .info {
+  overflow: visible;
   width: 100%;
-  margin-top: 29px;
+  margin-top: 25px;
   margin-right: -37px;
-  margin-left: 78px;
-  padding-top: 34px;
-  padding-right: 19em;
-  padding-left: 16em;
+  margin-left: 1px;
+  padding: 34px 1.2em 0px 16em;
   border-top: 1px solid #000;
   font-size: 1.4em;
   line-height: 26px;
@@ -1574,8 +1573,8 @@ img {
 
 .text-block-15 {
   margin-bottom: -90px;
-  font-size: 8em;
-  line-height: 150px;
+  font-size: 3em;
+  line-height: 80px;
   font-weight: 700;
   white-space: normal;
 }
@@ -1734,7 +1733,7 @@ img {
 }
 
 .image-16 {
-  border-left: 2px solid #000;
+  border-left: 2px none #000;
 }
 
 .div-block-28 {
@@ -2388,6 +2387,10 @@ html.w-mod-js *[data-ix="new-interaction"] {
 
   .aboutty.mywork {
     padding-bottom: 0.2em;
+  }
+
+  .aboutty.aboutnoyellow {
+    background-color: #000;
   }
 
   .contactinfo.page-1 {
@@ -3368,10 +3371,10 @@ html.w-mod-js *[data-ix="new-interaction"] {
   }
 
   .info {
-    padding-top: 24px;
-    padding-bottom: 20px;
-    padding-left: 4.9em;
-    font-size: 1.3em;
+    margin-right: 0px;
+    margin-left: 11px;
+    padding: 24px 0em 20px 4.8em;
+    font-size: 1.2em;
   }
 
   .image-9 {
