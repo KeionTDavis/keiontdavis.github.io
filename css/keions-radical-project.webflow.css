@@ -527,8 +527,9 @@ img {
 
 .dcontainer.page-1 {
   width: 100%;
-  margin-left: 0.3em;
+  margin-left: -0.5em;
   padding-top: 0.7em;
+  padding-right: 5.4em;
   padding-left: 0em;
   font-size: 6vw;
   line-height: 0.9em;
@@ -867,7 +868,7 @@ img {
   margin-right: -123px;
   padding-right: 0px;
   padding-bottom: 0px;
-  padding-left: 23em;
+  padding-left: 20.2em;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
@@ -1077,7 +1078,7 @@ img {
   margin-left: 5px;
   padding-top: 27px;
   padding-bottom: 0px;
-  padding-left: 12.6em;
+  padding-left: 10.5em;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
@@ -1336,7 +1337,7 @@ img {
   margin-top: 25px;
   margin-right: -37px;
   margin-left: 1px;
-  padding: 34px 1.2em 0px 16em;
+  padding: 34px 1.2em 0px 14.6em;
   border-top: 1px solid #000;
   font-size: 1.4em;
   line-height: 26px;
@@ -1973,7 +1974,9 @@ html.w-mod-js *[data-ix="new-interaction"] {
   }
 
   .dcontainer.page-1 {
+    margin-left: 0.3em;
     padding-top: 0.7em;
+    padding-right: 0em;
     line-height: 1.1em;
   }
 
