@@ -509,7 +509,7 @@ img {
 .descirp {
   width: 100%;
   margin-right: 0em;
-  margin-left: 20.4em;
+  margin-left: 23em;
   padding-right: 0px;
   padding-left: 0px;
   line-height: 10px;
@@ -527,9 +527,9 @@ img {
 
 .dcontainer.page-1 {
   width: 100%;
-  margin-left: 0em;
+  margin-left: -0.5em;
   padding-top: 0.7em;
-  padding-right: 4.7em;
+  padding-right: 5.4em;
   padding-left: 0em;
   font-size: 6vw;
   line-height: 0.9em;
