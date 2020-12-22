@@ -933,6 +933,7 @@ img {
 
 .contactcontain.page-1.mywork {
   margin-left: -2px;
+  background-color: #000;
 }
 
 .contactcontain.page-2 {
@@ -2527,6 +2528,10 @@ html.w-mod-js *[data-ix="new-interaction"] {
     font-size: 13px;
   }
 
+  .link-5.mywork {
+    margin-left: -25px;
+  }
+
   .workitem {
     margin-top: 0px;
     margin-left: 0px;
@@ -2768,6 +2773,13 @@ html.w-mod-js *[data-ix="new-interaction"] {
 
   .div-block-32 {
     margin-left: 100px;
+  }
+
+  .contactworkinfo {
+    display: block;
+    -webkit-transform: rotate(-89deg);
+    -ms-transform: rotate(-89deg);
+    transform: rotate(-89deg);
   }
 }
 
@@ -3200,6 +3212,7 @@ html.w-mod-js *[data-ix="new-interaction"] {
 
   .contactcontain.page-1.mywork {
     margin-left: -20px;
+    background-color: transparent;
   }
 
   .contactcontain.page-2 {
@@ -3223,6 +3236,12 @@ html.w-mod-js *[data-ix="new-interaction"] {
   }
 
   .link-5 {
+    text-align: center;
+  }
+
+  .link-5.mywork {
+    margin-left: -37px;
+    padding-left: 0px;
     text-align: center;
   }
 
@@ -3647,6 +3666,11 @@ html.w-mod-js *[data-ix="new-interaction"] {
     margin-left: 3px;
     font-size: 50px;
     line-height: 30px;
+  }
+
+  .contactworkinfo {
+    margin-left: 11px;
+    padding-left: 0px;
   }
 }
 
