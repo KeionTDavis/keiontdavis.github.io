@@ -1122,7 +1122,7 @@ img {
 .social {
   display: block;
   height: auto;
-  margin-top: 39px;
+  margin-top: -20px;
   margin-right: -3.3em;
   margin-left: -9px;
   padding-right: 0px;
@@ -1170,6 +1170,7 @@ img {
 }
 
 .social.link-11 {
+  margin-top: 21px;
   -webkit-align-self: auto;
   -ms-flex-item-align: auto;
   -ms-grid-row-align: auto;
@@ -1193,6 +1194,10 @@ img {
 .text-block-13.workpage {
   padding-left: 0px;
   color: #fff;
+}
+
+.text-block-13.link-11 {
+  padding-top: 66px;
 }
 
 .mylogo {
@@ -2122,6 +2127,11 @@ html.w-mod-js *[data-ix="new-interaction"] {
     font-weight: 300;
   }
 
+  .social.link-11 {
+    margin-top: -128px;
+    padding-bottom: 4px;
+  }
+
   .text-block-13 {
     font-size: 1.1em;
   }
@@ -2578,6 +2588,10 @@ html.w-mod-js *[data-ix="new-interaction"] {
 
   .social.page-2 {
     margin-left: 208px;
+  }
+
+  .social.link-11 {
+    margin-top: -15px;
   }
 
   .text-block-13 {
@@ -3314,7 +3328,7 @@ html.w-mod-js *[data-ix="new-interaction"] {
 
   .social {
     max-height: 100%;
-    margin-top: 45px;
+    margin-top: -9px;
     margin-right: 0px;
     margin-left: 0px;
     padding-bottom: 0px;
@@ -3339,10 +3353,11 @@ html.w-mod-js *[data-ix="new-interaction"] {
 
   .social.link-11 {
     max-height: 100%;
+    margin-top: 48px;
   }
 
   .text-block-13 {
-    margin-bottom: 23px;
+    margin-bottom: 12px;
     padding-top: 0px;
     padding-bottom: 0px;
   }
