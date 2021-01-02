@@ -58,6 +58,9 @@ img {
 
 .body.page-1 {
   background-color: #ffea00;
+  background-image: linear-gradient(269deg, #e62f8b, #fff800 74%);
+  color: #000;
+  background-clip: border-box;
 }
 
 .body.page-2 {
@@ -480,6 +483,7 @@ img {
 }
 
 .link-3.page-1 {
+  font-family: Helveticanowdisplay, sans-serif;
   color: #000;
 }
 
@@ -507,7 +511,7 @@ img {
 }
 
 .descirp {
-  width: 100%;
+  width: 70%;
   margin-right: 0em;
   margin-left: 23em;
   padding-right: 0px;
@@ -526,17 +530,22 @@ img {
 }
 
 .dcontainer.page-1 {
+  position: static;
   width: 100%;
-  margin-left: -0.5em;
+  margin-left: -0.4em;
   padding-top: 0.7em;
-  padding-right: 5.4em;
+  padding-right: 0em;
   padding-left: 0em;
+  font-family: Helveticanowdisplay, sans-serif;
+  color: #000;
   font-size: 6vw;
   line-height: 0.9em;
+  font-weight: 400;
 }
 
 .jville {
   font-family: Goshasans, sans-serif;
+  color: #000;
   font-size: 7vw;
 }
 
@@ -803,6 +812,7 @@ img {
   margin-right: 0px;
   margin-bottom: 29px;
   padding-right: 48px;
+  font-family: Helveticanowdisplay, sans-serif;
   color: #000;
   font-weight: 400;
 }
@@ -817,6 +827,7 @@ img {
 
 .link-4 {
   border-bottom: 2px solid #000;
+  font-family: Helveticanowdisplay, sans-serif;
   color: #000;
   font-size: 26px;
   font-weight: 300;
@@ -1198,6 +1209,7 @@ img {
 
 .text-block-13.link-11 {
   padding-top: 66px;
+  font-family: Helveticanowdisplay, sans-serif;
 }
 
 .mylogo {
@@ -1281,6 +1293,10 @@ img {
   position: fixed;
 }
 
+.link-10 {
+  font-family: Helveticanowdisplay, sans-serif;
+}
+
 .link-10:active {
   background-image: none;
 }
@@ -1306,6 +1322,8 @@ img {
 }
 
 .link-11 {
+  font-family: Helveticanowdisplay, sans-serif;
+  font-weight: 300;
   text-decoration: none;
 }
 
@@ -1580,9 +1598,11 @@ img {
 
 .text-block-15 {
   margin-bottom: -90px;
+  font-family: Helveticanowdisplay, sans-serif;
+  color: #000;
   font-size: 3em;
   line-height: 80px;
-  font-weight: 700;
+  font-weight: 500;
   white-space: normal;
 }
 
@@ -3691,16 +3711,16 @@ html.w-mod-js *[data-ix="new-interaction"] {
 
 @font-face {
   font-family: 'Hkgrotesk';
-  src: url('../fonts/HKGrotesk-Bold.eot') format('embedded-opentype'), url('../fonts/HKGrotesk-Bold.woff') format('woff');
-  font-weight: 700;
-  font-style: normal;
+  src: url('../fonts/HKGrotesk-Italic.eot') format('embedded-opentype'), url('../fonts/HKGrotesk-Italic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
   font-display: auto;
 }
 @font-face {
   font-family: 'Hkgrotesk';
-  src: url('../fonts/HKGrotesk-Italic.eot') format('embedded-opentype'), url('../fonts/HKGrotesk-Italic.woff') format('woff');
-  font-weight: 400;
-  font-style: italic;
+  src: url('../fonts/HKGrotesk-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
   font-display: auto;
 }
 @font-face {
@@ -3751,4 +3771,109 @@ html.w-mod-js *[data-ix="new-interaction"] {
   font-weight: 400;
   font-style: normal;
   font-display: auto;
+}
+@font-face {
+  font-family: 'Helveticanowdisplay';
+  src: url('../fonts/HelveticaNowDisplay-ThinIta.otf') format('opentype'), url('../fonts/HelveticaNowDisplay-Thin.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Helveticanowdisplay';
+  src: url('../fonts/HelveticaNowDisplay-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Helveticanowdisplay';
+  src: url('../fonts/HelveticaNowDisplay-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Helveticanowdisplay';
+  src: url('../fonts/HelveticaNowDisplay-Light.otf') format('opentype'), url('../fonts/HelveticaNowDisplay-LightIta.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Helveticanowdisplay medita';
+  src: url('../fonts/HelveticaNowDisplay-MedIta.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Helveticanowdisplay';
+  src: url('../fonts/HelveticaNowDisplay-Italic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Helveticanowdisplay hairlinei';
+  src: url('../fonts/HelveticaNowDisplay-HairlineI.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Helveticanowdisplay extblk';
+  src: url('../fonts/HelveticaNowDisplay-ExtBlk.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Helveticanowdisplay hairline';
+  src: url('../fonts/HelveticaNowDisplay-Hairline.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Helveticanowdisplay';
+  src: url('../fonts/HelveticaNowDisplay-ExtraBold.otf') format('opentype'), url('../fonts/HelveticaNowDisplay-BoldIta.otf') format('opentype'), url('../fonts/HelveticaNowDisplay-Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Helveticanowdisplay extltita';
+  src: url('../fonts/HelveticaNowDisplay-ExtLtIta.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Helveticanowdisplay extlt';
+  src: url('../fonts/HelveticaNowDisplay-ExtLt.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Helveticanowdisplay extbdita';
+  src: url('../fonts/HelveticaNowDisplay-ExtBdIta.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Helveticanowdisplay extblkita';
+  src: url('../fonts/HelveticaNowDisplay-ExtBlkIta.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Helveticanowdisplay';
+  src: url('../fonts/HelveticaNowDisplay-BlackIta.otf') format('opentype'), url('../fonts/HelveticaNowDisplay-Black.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
 }
